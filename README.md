@@ -18,7 +18,7 @@ $ ./c4
 ## Installation
 
 ```bash
-git clone https://github.com/sbarratt/c4.git
+$ git clone https://github.com/sbarratt/c4.git
 ```
 
 ## License
